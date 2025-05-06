@@ -8,3 +8,4 @@
 ### Tirocinio - UniSalento - Alexandru Arati - Parte 5 - Date 2025-04-21 / 2025-04-30 ---> https://colab.research.google.com/drive/1Y7NmZdnRhPqr0NdkmhShlzKzmA1_nt5I?authuser=1
 ### Tirocinio - UniSalento - Alexandru Arati - Parte 6 - Date 2025-05-01 / 2025-05-03 ---> https://colab.research.google.com/drive/16gDfQW0SsHUueNWcbe6x5oqFQ6JQZYnd?authuser=1
 ### Tirocinio - UniSalento - Alexandru Arati - Parte 7 - Date 2025-05-04 / 2025-05-06 ---> https://colab.research.google.com/drive/1k2BFa2NFR0fhVDUxP_fcONxiEGBZh68w?authuser=1
+### Tirocinio - UniSalento - Alexandru Arati - Parte 8 - Date 2025-05-07 / 2025-05-09 ---> https://colab.research.google.com/drive/1Y8_TrwD3AM-4W2KAGp8x4igeysbNJfsZ?authuser=1
